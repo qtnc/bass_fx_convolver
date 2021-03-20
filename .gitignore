@@ -1,0 +1,12 @@
+obj/
+objd/
+*.a
+*.o
+*.exe
+*.dll
+*.old
+*.ogg
+*.wav
+*.chm
+test*
+out*
